@@ -1,14 +1,10 @@
-#### Zadanie 1
-
-Wpisz w consoli następującą instrukcję:
+#### Task 1
 Type in console this instruction:
 ```JavaScript
-console.log("Twoje imię");
+console.log("Your name");
 ```
 
-#### Zadanie 2
-
-Wpisz w consoli następującą instrukcję i sprawdź ich wynik:
+#### Task 2
 Type in console this instruction and check results:
 ```JavaScript
 * 12 + 32;
@@ -16,9 +12,7 @@ Type in console this instruction and check results:
 * 5 * 2;
 ```
 
-#### Zadanie 3
-
-Wpisz do konsoli i sprawdź co się wyświetli:
+#### Task 3
 Type in console and check what is displayed:
 ```
 *  "Hello World";
